@@ -1,20 +1,20 @@
 body{
     background-color: black;
-    text: white;
+    text-color white;
 }
 
 .LeftAlign{
     border: 5px solid;
     border-color: blue;
-    align-content: left;
+    float: left;
 }
 .CenterAlign{
     border: 5px solid;
     border-color: red;
-    align-content: center;
+    float: center;
 }
 .RightAlign{
     border: 5px solid;
     border-color: purple;
-    align-content: right;
+    float: right;
 }
