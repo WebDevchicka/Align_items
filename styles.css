@@ -1,26 +1,26 @@
 body{
     background-color: black;
-    text-color: white;
+    color: white;
 }
 
 .LeftAlign{
     border: 5px solid;
     border-color: blue;
     float: left;
-    height: auto;
-    width: auto;
+    height: 25px;
+    width: 33%;
 }
 .CenterAlign{
     border: 5px solid;
     border-color: red;
     float: center;
-    height: auto;
-    width: auto;
+    height: 25px;
+    width: 33%;
 }
 .RightAlign{
     border: 5px solid;
     border-color: purple;
     float: right;
-    height: auto;
-    width: auto;
+    height: 25px;
+    width: 33%;
 }
