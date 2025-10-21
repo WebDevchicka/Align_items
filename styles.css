@@ -2,25 +2,36 @@ body{
     background-color: black;
     color: white;
 }
-
+.container{
+    display: flex;
+    gap: 5px;
+          }
 .LeftAlign{
+    flex: 1;
+    padding: 15px;
+    height: 280px;
+    color: white;
+    text-align: justify;
+    box-sizing: border-box;
     border: 5px solid;
     border-color: blue;
-    float: left;
-    height: 25px;
-    width: 33%;
 }
 .CenterAlign{
-    border: 5px solid;
+    flex: 1;
+    padding: 15px;
+    height: 280px;
+    color: white;
+    text-align: justify;
+    box-sizing: border-box;border: 5px solid;
     border-color: red;
-    float: center;
-    height: 25px;
-    width: 33%;
 }
 .RightAlign{
+    flex: 1;
+    padding: 15px;
+    height: 280px;
+    color: white;
+    text-align: justify;
+    box-sizing: border-box;
     border: 5px solid;
     border-color: purple;
-    float: right;
-    height: 25px;
-    width: 33%;
 }
