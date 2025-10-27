@@ -4,31 +4,25 @@ body{
 }
 .container{
     display: flex;
-    gap: 5px;
+    justify-content: center;
           }
 .LeftAlign{
-    flex: 1;
-    padding: 15px;
-    height: 280px;
+    flex: 0 0 auto;
     color: white;
-    text-align: justify;
     box-sizing: border-box;
     border: 5px solid;
     border-color: blue;
 }
 .CenterAlign{
-    flex: 1;
-    padding: 15px;
-    height: 280px;
+    flex: 0 0 auto;
     color: white;
     text-align: justify;
-    box-sizing: border-box;border: 5px solid;
+    box-sizing: border-box;
+    border: 5px solid;
     border-color: red;
 }
 .RightAlign{
-    flex: 1;
-    padding: 15px;
-    height: 280px;
+    flex: 0 0 auto;
     color: white;
     text-align: justify;
     box-sizing: border-box;
