@@ -8,19 +8,19 @@ body{
     align-items: center;
           }
 .LeftAlign{
-    flex: 0 0 auto;
+    flex: start;
     color: white;
     border: 5px solid blue;
     width: 33%;
 }
 .CenterAlign{
-    flex: 0 0 auto;
+    flex: center;
     color: white;
     border: 5px solid red;
     width: 33%;
 }
 .RightAlign{
-    flex: 0 0 auto;
+    flex: end;
     color: white;
     border: 5px solid purple;
     width: 33%;
