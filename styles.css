@@ -10,23 +10,15 @@ body{
 .LeftAlign{
     flex: 0 0 auto;
     color: white;
-    box-sizing: border-box;
-    border: 5px solid;
-    border-color: blue;
+    border: 5px solid blue;
 }
 .CenterAlign{
     flex: 0 0 auto;
     color: white;
-    text-align: justify;
-    box-sizing: border-box;
-    border: 5px solid;
-    border-color: red;
+    border: 5px solid red;
 }
 .RightAlign{
     flex: 0 0 auto;
     color: white;
-    text-align: justify;
-    box-sizing: border-box;
-    border: 5px solid;
-    border-color: purple;
+    border: 5px solid purple;
 }
