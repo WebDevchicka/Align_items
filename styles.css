@@ -10,7 +10,6 @@ body{
 .box {
       float: left;
       width: 33.33%;
-      height: 280px;
       padding: 15px;
       color: white;
       box-sizing: border-box;
