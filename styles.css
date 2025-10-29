@@ -2,7 +2,7 @@ body{
     background-color: black;
     color: white;
 }
-container {
+.container {
    display: flex;
 }
 .LeftAlign{
